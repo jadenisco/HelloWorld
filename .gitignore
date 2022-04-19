@@ -1,3 +1,8 @@
 # Ignore some local files
 HelloWorld.dSYM/
 HelloWorld
+Helloworld.exe
+HelloWorld.ilk
+HelloWorld.obj
+HelloWorld.pdb
+vc140.pdb
